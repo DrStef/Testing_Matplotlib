@@ -20,7 +20,7 @@ Our exploration extended to determining which Matplotlib modules could serve as 
   style="display: inline-block; margin: 0 auto; width=30">
 </p>
 
- #### <ul><ul>[3D Parametric systems](https://github.com/DrStef/Testing_Matplotlib/blob/main/PARTI_Testing_Matplotlib_3D_curves_surfaces_v5.ipynb)</ul></ul>
+ #### <ul><ul>[Jupyter Notebook: 3D Parametric systems](https://github.com/DrStef/Testing_Matplotlib/blob/main/PARTI_Testing_Matplotlib_3D_curves_surfaces_v5.ipynb)</ul></ul>
 
 ###  <ul> **Part II: 3D surfaces defined with implicit equations: F(x,y,z)=0.**  </ul>
 
@@ -33,7 +33,7 @@ Our exploration extended to determining which Matplotlib modules could serve as 
   style="display: inline-block; margin: 0 auto; width=30">
 </p>
 
- #### <ul><ul>[3D Implicit surfaces](https://github.com/DrStef/Testing_Matplotlib/blob/main/PARTII_Testing_Matplotlib_3D_implicit_surfaces_v5.ipynb)</ul></ul>
+ #### <ul><ul>[Jupyter Notebook: 3D Implicit surfaces](https://github.com/DrStef/Testing_Matplotlib/blob/main/PARTII_Testing_Matplotlib_3D_implicit_surfaces_v5.ipynb)</ul></ul>
 
 
 
@@ -50,7 +50,7 @@ Our exploration extended to determining which Matplotlib modules could serve as 
 </p>
 
 
- #### <ul><ul>[Polyhedrons](https://github.com/DrStef/Testing_Matplotlib/blob/main/PARTIII_Testing_Matplotlib_3D_Polyhedrons_v3.ipynb)  </ul> </ul>
+ #### <ul><ul>[Jupyter Notebook: Polyhedrons](https://github.com/DrStef/Testing_Matplotlib/blob/main/PARTIII_Testing_Matplotlib_3D_Polyhedrons_v3.ipynb)  </ul> </ul>
 
 ###  <ul>  **Part IV: 3D surfaces - Animations.**  </ul>
 
@@ -71,7 +71,7 @@ Our exploration extended to determining which Matplotlib modules could serve as 
   style="display: inline-block; margin: 0 auto; width=30">
 </p>
 
- #### <ul><ul>[3D surfaces - Animations](https://github.com/DrStef/Testing_Matplotlib/blob/main/PARTIV_Testing_Matplotlib_3D_Animations_v2.ipynb)  </ul> </ul> 
+ #### <ul><ul>[Jupyter Notebook: 3D surfaces - Animations](https://github.com/DrStef/Testing_Matplotlib/blob/main/PARTIV_Testing_Matplotlib_3D_Animations_v2.ipynb)  </ul> </ul> 
 <br>
 <br>
 
